@@ -1,0 +1,3 @@
+23:10:39.051 [main] FATAL Beta.Demo1 - This is fatal
+23:10:39.056 [main] INFO  Beta.Demo1 - Object is present
+23:10:39.057 [main] ERROR Beta.Demo1 - object is not present
